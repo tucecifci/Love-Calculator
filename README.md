@@ -1,6 +1,7 @@
 # Love-Calculator
 
 Hello everybody! 👋 </br>
+
 ✨Welcome to the Love Calculator project! This simple web application allows users to calculate the compatibility between two people based on their names. It's a fun way to see how well you match with your crush or partner!
 ## 👀 Overview
 
